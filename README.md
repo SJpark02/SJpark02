@@ -20,6 +20,12 @@ Here are some ideas to get you started:
 ![Seongjun's GitHub stats](https://github-readme-stats.vercel.app/api?username=SJpark02&show_icons=true&theme=dracula)
 <p>
 
+## Project
+- [R&D] Generate 3D Face Avatar from a single Image (2023)
+- Generate 3D Face Avatar with Texture from a single Image based on Generative AI (2023 ~ 2024)
+- [R&D] AI Closed Captioning (2024 ~)
+- Automated Audio Captioning (2024 ~)
+
 ## 📞 Contact 📞
 <div style="display:flex; flex-direction:row;">
    <a href="mailto:sj.park@donga.ac.kr"><img src ="https://img.shields.io/badge/Gmail-EA4335.svg?&style=flat-squaare&logo=Gmail&logoColor=white"/></a>
