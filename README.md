@@ -22,6 +22,9 @@ Here are some ideas to get you started:
 - [R&D] AI Closed Captioning (2024 ~)
 - Automated Audio Captioning (2024 ~)
 
+## Paper
+- 단일 2차원 이미지로부터 텍스처를 포함한 3차원 얼굴 모델 생성 (2024, 한국방송미디어공학회)
+  
 ## 📞 Contact 📞
 <div style="display:flex; flex-direction:row;">
    <a href="mailto:sj.park@donga.ac.kr"><img src ="https://img.shields.io/badge/Gmail-EA4335.svg?&style=flat-squaare&logo=Gmail&logoColor=white"/></a>
