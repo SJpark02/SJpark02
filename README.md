@@ -17,10 +17,12 @@ Here are some ideas to get you started:
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FSJpark02&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=GITHUB&edge_flat=false)](https://hits.seeyoufarm.com)
 
 ## Project
-- [R&D] Generate 3D Face Avatar from a single Image (2023)
-- Generate 3D Face Avatar with Texture from a single Image based on Generative AI (2023 ~ 2024)
 - [R&D] AI Closed Captioning (2024 ~)
 - Automated Audio Captioning (2024 ~)
+- Generate 3D Face Avatar with Texture from a single Image based on Generative AI (2023 ~ 2024)
+- [R&D] Generate 3D Face Avatar from a single Image (2023)
+- KSL(Korean Sign Language) translation AI development project (2023)
+- LMS(Learning Management System) Database Design & Program Development (2022)
 
 ## Paper
 - 단일 2차원 이미지로부터 텍스처를 포함한 3차원 얼굴 모델 생성 (2024, 한국방송미디어공학회)
