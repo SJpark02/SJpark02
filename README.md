@@ -23,6 +23,7 @@ Here are some ideas to get you started:
 - [R&D] Generate 3D Face Avatar from a single Image (2023)
 - KSL(Korean Sign Language) translation AI development project (2023)
 - LMS(Learning Management System) Database Design & Program Development (2022)
+- 유니티 기반 피지컬컴퓨팅 증강현실 교육시스템 개발 (2022)
 
 ## Paper
 - 단일 2차원 이미지로부터 텍스처를 포함한 3차원 얼굴 모델 생성 (2024, 한국방송미디어공학회, Oral-Session, 제1저자)
