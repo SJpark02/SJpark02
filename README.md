@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 
 ## Paper
 - 단일 2차원 이미지로부터 텍스처를 포함한 3차원 얼굴 모델 생성 (2024, 한국방송미디어공학회, Oral-Session, 제1저자)
-- 3D Human Model Generation from 2D Single Image (2024, iMiD2024(3DSA), Oral-Session, 제1저자)
+- 3D Human Model Generation from 2D Single Image (2024, iMiD2024(3DSA), Oral-Session/Invited-Session, 제1저자)
   
 ## 📞 Contact 📞
 <div style="display:flex; flex-direction:row;">
