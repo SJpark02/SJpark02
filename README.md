@@ -31,7 +31,7 @@ Here are some ideas to get you started:
   
 ## 📞 Contact 📞
 <div style="display:flex; flex-direction:row;">
-   <a href="mailto:contact@parkseongjun.com"><img src ="https://img.shields.io/badge/Gmail-EA4335.svg?&style=flat-squaare&logo=Gmail&logoColor=white"/></a>
+   <a href="mailto:contact@parkseongjun.com"><img src="https://img.shields.io/badge/email-1572B6?style=for-the-badge"/></a>
 </div><br>
 
  ## 🔨 Once I've used 🔨
