@@ -27,6 +27,8 @@ Here are some ideas to get you started:
 - 유니티 기반 피지컬컴퓨팅 증강현실 교육시스템 개발 (2022)
 
 ## Paper
+- [Best Paper] 뉴스 데이터를 활용한 Whisper 모델 Fine-Tuning (2024, 한국멀티미디어학회, Poster-Session, 공저자)
+- [Best Paper] Embedded system과 InstantSplat을 활용한 효율적인 3D 재구성 (2024, 한국멀티미디어학회, Poster-Session, 공저자)
 - 단일 2차원 이미지로부터 텍스처를 포함한 3차원 얼굴 모델 생성 (2024, 한국방송미디어공학회, Oral-Session, 제1저자)
 - 3D Human Model Generation from 2D Single Image (2024, iMiD2024(3DSA), Oral-Session/Invited-Session, 제1저자)
   
